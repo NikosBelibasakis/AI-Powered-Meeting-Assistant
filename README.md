@@ -37,7 +37,6 @@ The application allows users to upload an audio file through a web browser, auto
 
 ```text
 download_audio.py      # Downloads sample audio file
-simple_speech2text.py  # Basic Whisper transcription
 speech_analyzer.py     # Final integrated application
 ```
 
@@ -95,3 +94,5 @@ MEng in Computer Engineering and Informatics
 ## License
 
 This project was developed for educational purposes as part of the IBM Generative AI Engineering Specialization.
+
+Note: This project is designed to run within the IBM Skills Network Lab environment. The provided IBM WatsonX credentials, project configuration, and supported foundation models are preconfigured by IBM for educational purposes. As a result, the application may not run correctly outside the IBM Skills Network platform without additional configuration and valid IBM Cloud resources.
